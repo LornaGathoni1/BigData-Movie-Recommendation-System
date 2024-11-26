@@ -40,7 +40,7 @@ This project is a content-based movie recommendation system that leverages TMDB 
      Download TMDB dataset
      
 ## Contributors
- [Lorna Gathoni](https://github.com/LornaGathoni1)
+- [Lorna Gathoni](https://github.com/LornaGathoni1)
 - [Mogiti Joy](https://github.com/Mogiti-Joy)
 - [Marius Mulama](https://github.com/Marius-Mulama)  
 
