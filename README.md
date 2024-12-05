@@ -44,5 +44,11 @@ This project is a content-based movie recommendation system that leverages TMDB 
 - [Mogiti Joy](https://github.com/Mogiti-Joy)
 - [Marius Mulama](https://github.com/Marius-Mulama)  
 
+## Screenshots
+Here are two screenshots of the Big Data Movie Recommender app:
+![Screenshot 2024-11-24 183506](https://github.com/user-attachments/assets/a369a53a-2ecd-427d-9c72-30a88c699baf)
+![Screenshot 2024-11-24 182602](https://github.com/user-attachments/assets/a4c57bc6-8d43-438d-8a4a-d78599c689aa)
+
+
 
 
